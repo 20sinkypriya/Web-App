@@ -1,3 +1,3 @@
 # Web-App
 
-Hello World
+This is a repository that contains code for frontend and backend
